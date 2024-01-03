@@ -20,3 +20,4 @@ My CV can be found [here](https://github.com/Oracso/Oracso/blob/main/Oscar%20Har
 
 Please feel free to take a look at some of my example projects in my [Swift/SwiftUI Portfolio](https://github.com/Oracso/SwiftPortfolio)  
 
+<a href="http://example.com/" target="_blank">Hello, world!</a>
