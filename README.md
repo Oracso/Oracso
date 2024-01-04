@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
+
 My CV can be found [here](https://github.com/Oracso/Oracso/blob/main/Oscar%20Hardy%20CV.pdf)
 
 Please feel free to take a look at some of my example projects in my [Swift Portfolio](https://github.com/Oracso/SwiftPortfolio)  
