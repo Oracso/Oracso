@@ -4,7 +4,7 @@
 
 Email: oscarhardy@hotmail.co.uk
 
-Mobile: [07594439553](07594439553)
+Mobile: 07594439553
 
 ## About Me:
 
