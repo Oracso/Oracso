@@ -14,7 +14,7 @@ By pragmatically building applications within realistic timelines and incorporat
 
 I aim to bring the same approach to your organisation, writing code that is generic and modularised, maximising its applicability and scalability.
 
-All consultations and communications are of course FREE, I enjoy speaking to people :)
+All consultations and communications are of course FREE, I enjoy speaking to people so please reach out :)
 
 
 ## CV
