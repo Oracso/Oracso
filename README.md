@@ -17,7 +17,7 @@ I aim to bring the same approach to your organisation, writing code that is gene
 All consultations and communications are of course FREE, I enjoy speaking to people so please reach out :)
 
 
-## CV
+## CV:
 
 [Check out my CV](https://github.com/Oracso/Oracso/blob/main/Oscar%20Hardy%20CV.pdf)
 
