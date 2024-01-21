@@ -10,7 +10,7 @@ Driven by a desire and passion for efficiency and simplicity, I began writing co
 
 In doing so, I've solved challenges that optimised and automated processes to enhance productivity, analysed and structured complex data to enable informed decision making, and crafted intuitive User Interfaces that engage clientele. 
 
-Through pragmatically building applications within realistic timelines and incorporating current demands with future potential, I accomplish key business objectives that facilitate and drive growth.
+By pragmatically building applications within realistic timelines and incorporating current demands with future potential, I accomplish key business objectives that facilitate and drive growth.
 
 I'd aim to bring the same approach to your organisation, writing code that is generic and modularised, maximising its applicability and scalability.
 
