@@ -19,12 +19,15 @@ All consultations and communications are of course FREE, I enjoy speaking to peo
 
 ## CV:
 
-[Check out my CV](https://github.com/Oracso/Oracso/blob/main/Oscar%20Hardy%20CV.pdf)
+### [Check out my CV](https://github.com/Oracso/Oracso/blob/main/Oscar%20Hardy%20CV.pdf)
 
 ## Portfolios:
 
 Feel free to browse my portfolios. If you're searching for specific examples I may have relevant code that hasn't been uploaded or posted here so please let me know your requirements and I'll be happy to provide a suitable example.
 
-
 - [Swift Portfolio](https://github.com/Oracso/SwiftPortfolio)  
 
+
+## Highlighted Projects:
+
+- [CoreData State Management (SwiftUI)](https://github.com/Oracso/CoreData-State-Management)
