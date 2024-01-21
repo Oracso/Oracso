@@ -2,7 +2,7 @@
 
 ### Hi there 👋 🙂
 
-Email: Oscarhardy@hotmail.co.uk
+Email: oscarhardy@hotmail.co.uk
 
 ## About Me:
 
