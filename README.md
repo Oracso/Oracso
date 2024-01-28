@@ -8,7 +8,7 @@ Mobile: 07594439553
 
 ## About Me:
 
-Driven by a desire and passion for efficiency and simplicity, I began writing code to make life simpler. 
+I write code to make life simpler. 
 
 In doing so, I've solved challenges that optimised and automated processes to enhance productivity, analysed and structured complex data to enable informed decision making, and crafted intuitive User Interfaces that engage clientele. 
 
