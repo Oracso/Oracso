@@ -8,11 +8,11 @@ Mobile: 07594439553
 
 ## About Me:
 
-I've been writing primarily object-oriented code for the last 3+ years and through this have developed an understanding of Software Development, Data Engineering and Digital/Transformation Architecture. 
+I've been writing primarily object-oriented code for the last 3+ years and through this have developed an understanding of ***Software Development***, ***Data Engineering*** and ***Digital/Transformation Architecture***. 
 
 The majority of my code is written in Swift, the reason being that Swift enables me to write complex programs and logic that seamlessly integrate with a practical UI, allowing myself and others to engage and interact with an application.
 
-By doing so I've solved challenges that have optimised and automated processes to enhance productivity, and have analysed and structured complex data to enable informed decision making, all within the context of intuitive User Interfaces that engage clientele.  
+By doing so I've solved challenges that have optimised and automated processes to enhance productivity, and have analysed and structured complex data to enable informed decision making, all within the context of intuitive UI that engage clientele.  
 
 If you are a <ins>recruiter</ins> or an <ins>employer</ins>, please reach out, I enjoy speaking to people and working on interesting projects :) 
 
