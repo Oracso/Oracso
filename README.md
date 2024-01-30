@@ -23,7 +23,7 @@ If you are a <ins>recruiter</ins> or an <ins>employer</ins>, please reach out, I
 
 ## Portfolios:
 
-Feel free to browse my portfolios. If you're searching for specific examples I may have relevant code that hasn't been uploaded or posted here so please let me know your requirements and I'll be happy to provide a suitable example.
+Feel free to browse my portfolios. If you're searching for specific examples I may have relevant code that hasn't been uploaded or posted here so please let me know you're looking for and I'll be happy to provide suitable examples.
 
 - [Swift Portfolio](https://github.com/Oracso/SwiftPortfolio)  
 
