@@ -8,15 +8,13 @@ Mobile: 07594439553
 
 ## About Me:
 
-I write code to make life simpler. 
+I've been writing primarily object-oriented code for the last 3+ years and through this have developed an understanding of Software Development, Data Engineering and Digital/Transformation Architecture. 
 
-In doing so, I've solved challenges that optimised and automated processes to enhance productivity, analysed and structured complex data to enable informed decision making, and crafted intuitive User Interfaces that engage clientele. 
+The majority of my code is written in Swift, the reason being that Swift enables me to write complex programs and logic that seamlessly integrate with a practical UI, allowing myself and others to engage and interact with an application.
 
-By pragmatically building applications within realistic timelines and incorporating current demands with future potential, I accomplish key business objectives that facilitate and drive growth.
+By doing so I've solved challenges that have optimised and automated processes to enhance productivity, and have analysed and structured complex data to enable informed decision making, all within the context of intuitive User Interfaces that engage clientele.  
 
-I aim to bring the same approach to your organisation, writing code that is generic and modularised, maximising its applicability and scalability.
-
-All consultations and communications are of course FREE, I enjoy speaking to people so please reach out :)
+If you are a recruiter or an employer, please reach out, I enjoy speaking to people and working on interesting projects :) 
 
 
 ## CV:
