@@ -14,7 +14,7 @@ The majority of my code is written in Swift, the reason being that Swift enables
 
 By doing so I've solved challenges that have optimised and automated processes to enhance productivity, and have analysed and structured complex data to enable informed decision making, all within the context of intuitive User Interfaces that engage clientele.  
 
-If you are a recruiter or an employer, please reach out, I enjoy speaking to people and working on interesting projects :) 
+If you are a <ins>recruiter</ins> or an <ins>employer</ins>, please reach out, I enjoy speaking to people and working on interesting projects :) 
 
 
 ## CV:
