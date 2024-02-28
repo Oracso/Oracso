@@ -9,7 +9,7 @@ Email: oscarhardy@hotmail.co.uk
 
 I've been writing primarily object-oriented code for the last 3+ years and through this have developed an understanding of ***Software Development***, ***Data Engineering*** and ***Digital/Transformation Architecture***. 
 
-The majority of my code is written in Swift, as it enables me to combine complex functionality and logic that seamlessly integrates with a practical and engaging UI.
+The majority of my code is written in Swift, as it enables me to combine complex functionality and logic that seamlessly integrate with a practical and engaging UI.
 
 I've solved challenges by optimising and automating processes to enhance productivity and by analysing and structuring complex data for informed decision-making, all facilitated by an intuitive UI that engages clientele.
 
