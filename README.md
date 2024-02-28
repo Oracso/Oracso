@@ -11,7 +11,7 @@ I've been writing primarily object-oriented code for the last 3+ years and throu
 
 The majority of my code is written in Swift, as it enables me to combine complex functionality and logic that seamlessly integrate with a practical and engaging UI.
 
-I've solved challenges by optimising and automating processes to enhance productivity and by analysing and structuring complex data for informed decision-making, all facilitated by an intuitive UI that engages clientele.
+Through the optimisation and automation of processes for increased productivity, coupled with the analysis and structuring of complex data to facilitate informed decision-making, I develop concise and sustainable strategies that address business needs whilst incorporating intuitive UI to engage clientele.
 
 If you are a <ins>recruiter</ins> or an <ins>employer</ins>, please reach out, I enjoy speaking to people and working on interesting projects :) 
 
