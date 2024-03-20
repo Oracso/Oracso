@@ -17,8 +17,9 @@ If you are a <ins>recruiter</ins> or an <ins>employer</ins>, please reach out, I
 
 ## CV:
 
-### [Check out my CV](https://github.com/Oracso/Oracso/blob/main/Oscar%20Hardy%20CV.pdf) 
-<!-- (Built using SwiftUI) -->
+### [Check out my CV](https://github.com/Oracso/SwiftUI-CV/blob/main/PreviewAssets/FullCV.pdf) 
+
+(Built using SwiftUI - [View Project](https://github.com/Oracso/SwiftUI-CV))
 
 ## Portfolios:
 
