@@ -17,9 +17,14 @@ If you are a <ins>recruiter</ins> or an <ins>employer</ins>, please reach out, I
 
 ## CV:
 
-### [Check out my CV](https://github.com/Oracso/SwiftUI-CV/blob/main/PreviewAssets/FullCV.pdf) 
+### [<ins>CV</ins> ( Built using <ins>SwiftUI</ins> )](https://github.com/Oracso/SwiftUI-CV/blob/main/PreviewAssets/FullCV.pdf)
 
-(Built using SwiftUI - [View Project](https://github.com/Oracso/SwiftUI-CV))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ( [Repository](https://github.com/Oracso/SwiftUI-CV) )
+
+
+
+<!-- - ( [Repository](https://github.com/Oracso/SwiftUI-CV) ) -->
+
 
 ## Portfolios:
 
