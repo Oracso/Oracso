@@ -30,7 +30,7 @@ Feel free to browse my portfolios. If you're searching for specific examples I m
 
 ## Highlighted Projects:
 
-- ### [CoreData State Management (SwiftUI)](https://github.com/Oracso/CoreData-State-Management)
+- ### [CoreData State Management Framework (SwiftUI)](https://github.com/Oracso/CoreData-State-Management)
 
 
 - ### [SwiftUI CV (SwiftUI)](https://github.com/Oracso/SwiftUI-CV)
