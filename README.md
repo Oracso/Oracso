@@ -21,11 +21,6 @@ If you are a <ins>recruiter</ins> or an <ins>employer</ins>, please reach out, I
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ( [Repository](https://github.com/Oracso/SwiftUI-CV) )
 
-
-
-<!-- - ( [Repository](https://github.com/Oracso/SwiftUI-CV) ) -->
-
-
 ## Portfolios:
 
 Feel free to browse my portfolios. If you're searching for specific examples I may have relevant code that hasn't been uploaded or posted here so please let me know what you're looking for and I'll be happy to provide suitable examples.
