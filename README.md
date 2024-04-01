@@ -17,7 +17,7 @@ If you are a <ins>recruiter</ins> or an <ins>employer</ins>, please reach out, I
 
 ## CV:
 
-### [<ins>CV</ins> ( Built using <ins>SwiftUI</ins> )](https://github.com/Oracso/SwiftUI-CV/blob/main/PreviewAssets/FullCV.pdf)
+### [<ins>CV</ins> ( Built using <ins>SwiftUI</ins> )](https://github.com/Oracso/SwiftUI-CV/blob/main/PreviewAssets/OscarHardyCV.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ( [Repository](https://github.com/Oracso/SwiftUI-CV) )
 
