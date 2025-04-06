@@ -7,7 +7,7 @@
 
 ## About Me:
 
-I've been writing primarily object-oriented code for the last 3+ years and through this have developed an understanding of ***Software Development***, ***Data Engineering*** and ***Digital Architecture***. 
+I've been writing primarily object-oriented code for the last 4+ years and through this have developed an understanding of ***Software Development***, ***Data Engineering*** and ***Digital Architecture***. 
 
 The majority of my code is written in **Swift**, as it enables me to combine complex functionality and logic that seamlessly integrate with a practical and engaging UI.
 
