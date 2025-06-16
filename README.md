@@ -41,7 +41,7 @@ Feel free to browse my portfolios. If you're searching for specific examples I m
 
 - ### [Swift Bug Fixes (Swift)](https://github.com/Oracso/Swift-Bug-Fixes)
 
-- ### [Watch Haptics (SwiftUI - WatchOS)](https://github.com/Oracso/WatchHaptics)
+<!-- - ### [Watch Haptics (SwiftUI - WatchOS)](https://github.com/Oracso/WatchHaptics) -->
 
 <!-- ## Coding/Programming Languages    
 
