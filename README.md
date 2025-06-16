@@ -28,9 +28,9 @@ Feel free to browse my portfolios. If you're searching for specific examples I m
 - ### [Swift Portfolio](https://github.com/Oracso/SwiftPortfolio)  
 
 
-## Highlighted Projects:
+## Highlighted Public Projects:
 
-- ### [CoreData State Management Framework (SwiftUI)](https://github.com/Oracso/CoreData-State-Management)
+<!-- - ### [CoreData State Management Framework (SwiftUI)](https://github.com/Oracso/CoreData-State-Management) -->
 
 
 - ### [SwiftUI CV (SwiftUI)](https://github.com/Oracso/SwiftUI-CV)
